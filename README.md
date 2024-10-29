@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Been programming since 13 and the addiction has only devoured me since (in the best possible ways).
-
 These days I mostly work on:
 - authentication: ([Guard](https://github.com/oracularhades/guard), [Hades-Auth](https://github.com/oracularhades/hades-auth))
 - infrastructure tooling ([Rover](https://github.com/oracularhades/rover), Coastguard (error monitoring), database management, etc)
@@ -20,7 +18,6 @@ Languages I currently use:
 ...soon to be Python and others.
 
 🦋 Bluesky: https://bsky.app/profile/oracularhades.com
-
 Email: hi@oracularhades.com - alternatively you can throw a messenger pigeon out your window in the hopes it will reach New Zealand.
 
 <!--
