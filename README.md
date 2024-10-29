@@ -15,7 +15,7 @@ Languages I currently use:
 - C#
 - Zoomer
 
-...soon to be Python and others.
+...soon to be Python and others. I'm planning to port some of my libraries there.
 
 🦋 Bluesky: https://bsky.app/profile/oracularhades.com
 
