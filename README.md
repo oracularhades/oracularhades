@@ -2,7 +2,14 @@
 
 Been programming since 13 and the addiction has only devoured me since (in the best possible ways).
 
-I mostly work on authentication ([Guard](https://github.com/oracularhades/guard), [Hades-Auth](https://github.com/oracularhades/hades-auth)), infrastructure workflows ([Rover](https://github.com/oracularhades/rover), Coastguard (error monitoring), database management, etc), protocols and privacy/security these days. Most of my code is not on Github, and the code on Github still is not in their full forms. I haven't released it to avoid someone else taking credit for it, before it's in full form. I will do spring cleaning at somepoint, go through all the code on my laptop, write documentation, and put it up.
+These days I mostly work on:
+- authentication: ([Guard](https://github.com/oracularhades/guard), [Hades-Auth](https://github.com/oracularhades/hades-auth))
+- infrastructure tooling ([Rover](https://github.com/oracularhades/rover), Coastguard (error monitoring), database management, etc)
+- quality-of-life tooling ([Mindmap](https://github.com/oracularhades/mindmap))
+- protocols and privacy/security
+- but really whatever I and others find useful. I make a lot of tools that aren't public just for the sake of solving an issue
+
+Most of my code is not on Github, and the code on Github is not in their full forms. I haven't released it to avoid someone else taking credit for it, before it's in full form. I will do spring cleaning at somepoint, go through all the code on my laptop, write documentation, and put it up.
 
 Languages I currently use:
 - Rust
