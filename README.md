@@ -13,7 +13,6 @@ Languages I currently use:
 - Rust
 - Node.js/Typescript
 - C#
-- Zoomer
 
 ...soon to be Python and others. I'm planning to port some of my libraries there.
 
