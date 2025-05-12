@@ -18,7 +18,7 @@ Languages I currently use:
 
 🦋 Bluesky: https://bsky.app/profile/oracularhades.com
 
-Email: hi@oracularhades.com - alternatively you can throw a messenger pigeon out your window in the hopes it will reach New Zealand.
+Email: hi@oracularhades.com
 
 <!--
 **oracularhades/oracularhades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
