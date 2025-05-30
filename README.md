@@ -1,24 +1,10 @@
 ## Hi there 👋
 
-These days I mostly work on:
-- authentication: ([Guard](https://github.com/oracularhades/guard), [Hades-Auth](https://github.com/oracularhades/hades-auth))
-- infrastructure tooling ([Rover](https://github.com/oracularhades/rover), Coastguard (error monitoring), database management, etc)
-- quality-of-life tooling ([Mindmap](https://github.com/oracularhades/mindmap))
-- protocols and privacy/security
-- but really whatever I and others find useful. I make a lot of tools that aren't public just for the sake of solving an issue
-
-Most of my code is not on Github, and the code on Github is not in their full forms. I haven't released it to avoid someone else taking credit for it, before it's in full form. I will do spring cleaning at somepoint, go through all the code on my laptop, write documentation, and put it up.
-
-Languages I currently use:
-- Rust
-- Node.js/Typescript
-- C#
-
-...soon to be Python and others. I'm planning to port some of my libraries there.
-
+💾 Website: oracularhades.com
 🦋 Bluesky: https://bsky.app/profile/oracularhades.com
+📨 Email: hi@oracularhades.com
 
-Email: hi@oracularhades.com
+![iFrame test]([https://github-readme-stats.vercel.app/api?username=shanselman&show_icons=true](https://bsky.app/profile/did:plc:wtdzzfgzjpirnk5wvpjutqoy/post/3lqfy4dtqnc2t))
 
 <!--
 **oracularhades/oracularhades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
