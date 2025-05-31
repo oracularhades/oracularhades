@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 💾 Website: oracularhades.com
-🦋 Bluesky: https://bsky.app/profile/oracularhades.com
-📨 Email: hi@oracularhades.com
 
-![iFrame test]([https://github-readme-stats.vercel.app/api?username=shanselman&show_icons=true](https://bsky.app/profile/did:plc:wtdzzfgzjpirnk5wvpjutqoy/post/3lqfy4dtqnc2t))
+🦋 Bluesky: https://bsky.app/profile/oracularhades.com
+
+📨 Email: hi@oracularhades.com
 
 <!--
 **oracularhades/oracularhades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
