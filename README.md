@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💾 Website: oracularhades.com
+💾 Website: https://oracularhades.com
 
 🦋 Bluesky: https://bsky.app/profile/oracularhades.com
 
