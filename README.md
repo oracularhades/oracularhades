@@ -2,8 +2,6 @@
 
 💾 Website: https://oracularhades.com
 
-🦋 Bluesky: https://bsky.app/profile/oracularhades.com
-
 📨 Email: hi@oracularhades.com
 
 ### Cool stuff
