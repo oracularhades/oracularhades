@@ -6,6 +6,9 @@
 
 📨 Email: hi@oracularhades.com
 
+### Cool stuff
+Right now I'm working on an open-source search engine! https://github.com/lighthouse-search/lighthouse
+
 <!--
 **oracularhades/oracularhades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
